@@ -1,0 +1,8 @@
+{
+  "someSetting": {
+    "title": "Test Setting",
+    "description": "It's a setting",
+    "type": "integer",
+    "value": 4
+  }
+}

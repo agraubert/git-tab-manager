@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle git-tab-manager",
+        "command": "git-tab-manager:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "git-tab-manager",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "git-tab-manager:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
