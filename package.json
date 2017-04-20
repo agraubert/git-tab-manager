@@ -1,7 +1,7 @@
 {
   "name": "git-tab-manager",
   "main": "./lib/git-tab-manager",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "An Atom plugin to close and re-open tabs as you change branches",
   "keywords": [],
   "repository": "https://github.com/agraubert/git-tab-manager",
