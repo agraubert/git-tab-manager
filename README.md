@@ -1,4 +1,5 @@
 # git-tab-manager package
+[![apm](https://img.shields.io/apm/v/git-tab-manager.svg?style=flat-square)](https://atom.io/packages/git-tab-manager)
 
 An Atom plugin to close and re-open tabs as you change branches.
 
