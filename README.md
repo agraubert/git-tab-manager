@@ -1,4 +1,4 @@
-# git-tab-manager package
+# git-tab-manager 
 [![apm](https://img.shields.io/apm/v/git-tab-manager.svg?style=flat-square)](https://atom.io/packages/git-tab-manager)
 [![apm](https://img.shields.io/apm/dm/git-tab-manager.svg?style=flat-square)](https://atom.io/packages/git-tab-manager)
 
